@@ -2,6 +2,9 @@
 
 This is a Python-based number guessing game where the user tries to guess a randomly generated number within limited attempts.
 
+## 📸 Example Output
+
+![Game Screenshot](noguessgame.jpg)
 ## 🚀 Features
 - Random number generation
 - Limited attempts (6 tries)
